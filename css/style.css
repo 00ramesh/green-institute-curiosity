@@ -156,7 +156,7 @@ header {
   position: sticky;
   top: 0;
   z-index: 1000;
-  background-color: var(--primary);
+  background-color: rgba(245, 124, 0, 0.85);
   box-shadow: var(--shadow-md);
 }
 
@@ -278,7 +278,7 @@ nav a:hover::after {
 }
 
 .btn-primary {
-  background-color: var(--primary);
+  background-color: rgba(245, 124, 0, 0.85);
   color: var(--on-primary);
   box-shadow: var(--shadow-md);
 }
@@ -338,7 +338,7 @@ nav a:hover::after {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+  background: linear-gradient(135deg, rgba(245, 124, 0, 0.85) 0%, rgba(255, 152, 0, 0.85) 100%);
   color: var(--on-primary);
   padding: var(--spacing-3xl) var(--spacing-xl);
   position: relative;
@@ -528,7 +528,7 @@ section h2 {
 
 .course-category {
   display: inline-block;
-  background-color: var(--primary);
+  background-color: rgba(245, 124, 0, 0.85);
   color: var(--on-primary);
   padding: var(--spacing-xs) var(--spacing-md);
   border-radius: var(--radius-sm);
@@ -721,7 +721,7 @@ textarea {
    ======================================== */
 
 footer {
-  background-color: var(--primary);
+  background-color: rgba(245, 124, 0, 0.85);
   color: var(--on-primary);
   padding: var(--spacing-3xl) var(--spacing-xl);
   margin-top: auto;
@@ -894,7 +894,7 @@ footer {
     left: 0;
     right: 0;
     flex-direction: column;
-    background-color: var(--primary);
+    background-color: rgba(245, 124, 0, 0.85);
     padding: var(--spacing-lg);
     gap: var(--spacing-md);
     box-shadow: var(--shadow-md);
