@@ -3,13 +3,13 @@
    Curiosity Institute
    ======================================== */
 
-/* Color Variables - Material Light Blue Palette */
+/* Color Variables - Material Orange Palette */
 :root {
-  /* Primary Light Blue Colors */
-  --primary: #1e88e5;         /* Material Light Blue 600 */
-  --primary-light: #42a5f5;   /* Material Light Blue 400 */
-  --primary-lighter: #64b5f6; /* Material Light Blue 300 */
-  --primary-lighter-bg: #bbdefb; /* Material Light Blue 100 */
+  /* Primary Orange Colors */
+  --primary: #f57c00;         /* Material Orange 700 */
+  --primary-light: #ff9800;   /* Material Orange 500 */
+  --primary-lighter: #ffb74d; /* Material Orange 300 */
+  --primary-lighter-bg: #ffe0b2; /* Material Orange 100 */
   
   /* Secondary Colors */
   --secondary: #1565c0;       /* Material Blue 700 */
